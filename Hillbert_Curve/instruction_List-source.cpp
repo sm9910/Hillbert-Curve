@@ -1,6 +1,3 @@
-//Driver: Johan Mireles
-//Navigator: Shawn Mishra
-
 #include "instruction_list.h"
 #include <unordered_map>
 #include <iostream>

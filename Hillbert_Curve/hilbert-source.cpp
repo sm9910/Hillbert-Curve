@@ -1,5 +1,3 @@
-//Driver: Shawn Mishra
-//Navigator: Johan Mireles
 
 #include "hilbert.h"
 #include <iostream>
